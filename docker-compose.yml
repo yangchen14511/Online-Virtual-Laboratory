@@ -1,0 +1,5 @@
+services:
+  hello:
+    build: .
+    image: online-lab-hello:latest
+    container_name: online-lab-hello

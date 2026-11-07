@@ -1,0 +1,5 @@
+.git
+hello
+*.o
+a.out
+.DS_Store
